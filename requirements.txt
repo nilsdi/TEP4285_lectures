@@ -2,4 +2,3 @@ numpy==1.21.5
 matplotlib==3.5.1
 scipy==1.9.3
 tqdm==4.64.0
-random==1.2.3
